@@ -1,0 +1,78 @@
+
+
+@media (max-width: 480px) {
+    
+}
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+   
+    
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+   
+
+
+}
+
+
+
+
+
+@media (min-width: 1200px) {
+
+   
+
+}
+
+
+
+
+.fa-search:hover {
+    color: yellow;
+}
+
+
+a {
+    color: #000;
+}
+
+a:hover, a:focus, a:active {
+    color: #38005c;
+}
+
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background-color: #38005c;
+    border-color: #38005c;
+    color: #ffe724;
+    cursor: default;
+    z-index: 2;
+}
+
+.pagination > li > a, .pagination > li > span {
+    color: #000;
+}
+
+.pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
+    color: #38005c;
+}
+

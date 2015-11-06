@@ -1,0 +1,825 @@
+
+@media (max-width: 480px) {
+
+    .fronticons {
+        max-width: 290px;
+        height: 367px;
+        border: 1px solid #ccccd1;
+        box-shadow: inset 0 0 1px #f0f0f1;
+        border-radius: 3px;
+        margin: auto;
+    }
+    .buttonborder1 .btn {
+        font-size: 18px;
+        margin-left: -10px;
+        min-width: 125px;
+        width: 100%;
+    }
+
+    .buttonborder2 .btn {
+        font-size: 18px;
+        margin-left: 5px;
+        min-width: 125px;
+        width: 100%;
+    }
+
+
+
+    .buttonborder1 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .buttonborder2 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .footermargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+    }
+
+    .iconmargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-top: 5px;
+        border-top: 1px solid #e7e7e7;
+        padding-top: 20px;
+    }
+
+    .logopaddingtop {
+        padding-top: 7px;
+        padding-bottom: 20px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+    .footersearchicon {
+        margin-right: 15px;
+        margin-left: -15px;
+        float: right;
+        margin-top: -34px;
+        padding-right: 0px;
+    }
+
+    .footersearchicon .btn-default {
+        float: right;
+    }
+
+    .searchbarpadding {
+        padding-right: 15px;
+    }
+
+    .searchbarpadding .form-control {
+        border-radius: 17px 17px;
+    }
+
+
+
+    .region-featured-top {
+        background-color: #ffe724;
+        min-height: 290px;
+    }
+
+    .floatrightdate {
+        float: left;
+        padding-right: 0px;
+        width: 36px;
+    }
+
+    .hoverbox {
+        height: 210px;
+        border: 1px solid #fff;
+        box-shadow: inset 0 0 1px #fff;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .hoverbox:hover {
+        height: 210px;
+        border: 1px solid #ffe724;
+        box-shadow: inset 0 0 1px #fff8be;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .titlefontsize {
+        font-size: 35px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+
+
+}
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .fronticons {
+        max-width: 300px;
+        height: 367px;
+        border: 1px solid #ccccd1;
+        box-shadow: inset 0 0 1px #f0f0f1;
+        border-radius: 3px;
+        margin: auto;
+    }
+
+    .buttonborder1 .btn {
+        font-size: 18px;
+        width: 135px;
+        margin-left: 35%;
+    }
+
+    .buttonborder2 .btn {
+        font-size: 18px;
+        width: 135px;
+        margin-left: -40%;
+    }
+
+    .footermargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+    }
+
+    .iconmargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-top: 5px;
+        border-top: 1px solid #e7e7e7;
+        padding-top: 20px;
+    }
+
+    .logopaddingtop {
+        padding-top: 7px;
+        padding-bottom: 20px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+    .footersearchicon {
+        margin-right: 15px;
+        margin-left: -15px;
+        float: right;
+        margin-top: -34px;
+        padding-right: 0px;
+    }
+
+    .footersearchicon .btn-default {
+        float: right;
+    }
+
+
+
+
+    .searchbarpadding {
+        padding-right: 15px;
+    }
+
+    .searchbarpadding .form-control {
+        border-radius: 17px 17px;
+    }
+
+    .region-featured-top {
+        background-color: #ffe724;
+        min-height: 245px;
+    }
+
+    .floatrightdate {
+        float: left;
+        padding-right: 0px;
+        width: 36px;
+    }
+
+    .hoverbox {
+        height: 175px;
+        border: 1px solid #fff;
+        box-shadow: inset 0 0 1px #fff;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .hoverbox:hover {
+        height: 175px;
+        border: 1px solid #ffe724;
+        box-shadow: inset 0 0 1px #fff8be;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .titlefontsize {
+        font-size: 43px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .fronticons {
+        max-width: 300px;
+        height: 367px;
+        border: 1px solid #ccccd1;
+        box-shadow: inset 0 0 1px #f0f0f1;
+        border-radius: 3px;
+        margin: auto;
+    }
+
+    .buttonborder1 .btn {
+        font-size: 18px;
+        width: 140px;
+        margin-left: 35%;
+    }
+
+    .buttonborder2 .btn {
+        font-size: 18px;
+        width: 140px;
+        margin-left: -40%;
+    }
+
+    .footermargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+    }
+
+    .iconmargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-top: 5px;
+        border-top: 1px solid #e7e7e7;
+        padding-top: 20px;
+    }
+
+    .logopaddingtop {
+        padding-top: 7px;
+        padding-bottom: 20px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+    .footersearchicon {
+        margin-right: 15px;
+        margin-left: -15px;
+        float: right;
+        margin-top: -34px;
+        padding-right: 0px;
+    }
+
+    .footersearchicon .btn-default {
+        margin-left: -164%;
+    }
+
+
+
+
+    .searchbarpadding {
+        padding-right: 15px;
+    }
+
+    .searchbarpadding .form-control {
+        border-radius: 17px 17px;
+        margin-left: 53%;
+        width: 215px;
+    }
+
+    .region-featured-top {
+        background-color: #ffe724;
+        min-height: 245px;
+    }
+
+    .floatrightdate {
+        float: left;
+        padding-right: 0px;
+        width: 36px;
+    }
+
+    .hoverbox {
+        height: 175px;
+        border: 1px solid #fff;
+        box-shadow: inset 0 0 1px #fff;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .hoverbox:hover {
+        height: 175px;
+        border: 1px solid #ffe724;
+        box-shadow: inset 0 0 1px #fff8be;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+    .titlefontsize {
+        font-size: 43px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+
+
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .fronticons {
+        max-width: 300px;
+        height: 367px;
+        border: 1px solid #ccccd1;
+        box-shadow: inset 0 0 1px #f0f0f1;
+        border-radius: 3px;
+        margin: auto;
+    }
+    .buttonborder1 .btn {
+        font-size: 18px;
+        width: 140px;
+        margin-left: 34%;
+    }
+
+    .buttonborder2 .btn {
+        font-size: 18px;
+        width: 140px;
+        margin-left: -39%;
+    }
+
+    .paddingtb10 {
+        padding-top: 6px;
+        padding-left: 0;
+    }
+
+    .paddingtb10top {
+        padding-top: 4px;
+        padding-right: 0;
+
+    }
+
+    .footermargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .iconmargin {
+        text-align: center;
+        padding-left: 0;
+        padding-right: 0px;
+    }
+
+    .logopaddingtop {
+        padding-top: 4px;
+    }
+
+    .region-featured-top {
+        background-color: #ffe724;
+        min-height: 225px;
+    }
+
+    .floatrightdate {
+        float: left;
+        padding-right: 0px;
+        width: 36px;
+    }
+
+    .hoverbox {
+        height: 215px;
+        border: 1px solid #fff;
+        box-shadow: inset 0 0 1px #fff;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .hoverbox:hover {
+        height: 215px;
+        border: 1px solid #ffe724;
+        box-shadow: inset 0 0 1px #fff8be;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .iconmargintop {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 0;
+        margin-top: 7px;
+        padding-top: 0px;
+    }
+    .titlefontsize {
+        font-size: 43px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 1200px) {
+
+    .fronticons {
+        max-width: 300px;
+        height: 367px;
+        border: 1px solid #ccccd1;
+        box-shadow: inset 0 0 1px #f0f0f1;
+        border-radius: 3px;
+        margin: auto;
+    }
+
+    .buttonborder1 .btn {
+        font-size: 18px;
+        width: 140px;
+        margin-left: 34%;
+    }
+
+    .buttonborder2 .btn {
+        font-size: 18px;
+        width: 140px;
+        margin-left: -39%;
+    }
+
+    .paddingtb10 {
+        padding-top: 4px;
+    }
+
+    .paddingtb10top {
+        padding-top: 4px;
+        padding-right: 0;
+
+    }
+
+    .footermargin {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 5px;
+        margin-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .iconmargin {
+        text-align: center;
+        padding-left: 0;
+        padding-right: 2px;
+        margin-top: 2px;
+    }
+
+    .logopaddingtop {
+        padding-top: 4px;
+    }
+
+    .region-featured-top {
+        background-color: #ffe724;
+        min-height: 200px;
+    }
+
+    .floatrightdate {
+        float: left;
+        padding-right: 0px;
+        width: 36px;
+    }
+
+    .hoverbox {
+        height: 175px;
+        border: 1px solid #fff;
+        box-shadow: inset 0 0 1px #fff;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .hoverbox:hover {
+        height: 175px;
+        border: 1px solid #ffe724;
+        box-shadow: inset 0 0 1px #fff8be;
+        border-radius: 3px;
+        padding-top: 15px;
+    }
+
+    .iconmargintop {
+        text-align: center;
+        padding-right: 5px;
+        padding-left: 0;
+        margin-top: 7px;
+        padding-top: 0px;
+    }
+
+    .titlefontsize {
+        font-size: 43px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+
+}
+
+
+
+
+
+
+
+.floatrightbar {
+    float: right;
+}
+
+
+
+.searchbarbgcolor {
+    background-color: rgba(239, 242, 244, 0.85);
+}
+
+
+.form-control {
+    border-bottom-left-radius: 17px;
+    border-top-left-radius: 17px;
+    margin-right: -5px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.btn-default {
+    background-image: linear-gradient(to bottom, #adbabc 0px, #adbabc 100%);
+    background-repeat: repeat-x;
+    border-color: #adbabc;
+    text-shadow: 0 1px 0 #fff;
+    border-bottom-right-radius: 17px;
+    border-top-right-radius: 17px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+.fa-search {
+    color: white;
+}
+
+.btn-default:focus, .btn-default:hover {
+    background-color: #38005b;
+    background-position: 0 -34px;
+}
+
+
+
+
+
+.form-control:focus {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 1px rgba(255, 232, 35, 0.6);
+}
+
+.btn-default .fa-hover a:hover {
+    color: #ffe823;
+}
+
+
+
+.textjustify {
+    text-align: justify;
+}
+
+.imagemargintop {
+    margin-top: -156px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-left: auto;
+}
+
+.bannerimagebg {
+    background-image: url("../image/banner02.png");
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+    z-index: -9999999;
+}
+
+.header {
+
+}
+
+.highlight {
+    background-color: #ffe724;
+    border: 1px solid #fef9c7;
+    border-radius: 4px;
+    margin-bottom: 180px;
+    padding: 30px 15px;
+    margin-top: 285px;
+    max-width: 480px;
+    min-height: 260px;
+}
+
+.fontmedium {
+    font-family: "PF Agora Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.fontthin {
+    font-family: "PF Agora Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-stretch: extra-condensed;
+}
+
+.fontregular {
+    font-family: "PF Agora Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-stretch: normal;
+
+}
+
+.solutionpadding {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.buttonpadding {
+    padding: 
+}
+
+.threeeicons {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 45px;
+
+}
+
+
+
+.fronticons:hover {
+    border-color: #38005d;
+    box-shadow: inset 0 0 1px #c9bad2;
+    margin: auto;
+}
+
+.iconspadding {
+    padding-top: 30px;
+}
+
+.h2padding {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+
+.frontitlefontsize {
+    font-size: 43px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
+
+.buttonborder1 .btn-primary, .buttonborder2 .btn-primary {
+    background-image: linear-gradient(to bottom, #ffe724 0px, #ffe724 100%);
+    background-repeat: repeat-x;
+    border-color: #38005c;
+    color: black;
+    padding-top: 10px;
+    box-shadow: inset 0 0 1px #ffe724;
+}
+
+.buttonborder3 .btn-primary {
+    background-image: linear-gradient(to bottom, #fff 0px, #fff 100%);
+    background-repeat: repeat-x;
+    border-color: #ffe724;
+    color: black;
+    padding-top: 10px;
+    box-shadow: inset 0 0 1px #fef9c7;
+}
+
+.buttonborder1 .btn-primary:focus, .buttonborder1 .btn-primary:hover, .buttonborder2 .btn-primary:focus, .buttonborder2 .btn-primary:hover, .buttonborder3 .btn-primary:focus, .buttonborder3 .btn-primary:hover {
+    background-color: #38005c;
+    background-position: 0 0;
+    background-image: linear-gradient(to bottom, #38005c 0px, #38005c 100%);
+    color: #ffe724;
+    border-color: #38005c;
+    box-shadow: 0 0 1px #38005c inset;
+}
+
+
+
+
+.twobuttonpadding {
+    padding-bottom: 15px;
+}
+
+.buttonh3padding {
+    padding-top: 5px;
+}
+
+.buttonborder3 .btn {
+    font-size: 18px;
+    margin-left: 5px;
+    min-width: 125px;
+    margin-top: 25px;
+}
+
+.secondlinepadding {
+    margin-top: -10px;
+}
+
+.threeeiconspadding {
+    margin-bottom: 30px;
+}
+
+#site-footer__bottom {
+    background-color: #eff2f4;
+    padding-top: 30px;
+    padding-bottom: 31px;
+    min-height: 100px;
+}
+
+.region-breadcrumb {
+    margin-top: 10px;
+}
+
+.monthpadding {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.monthpadding h4 {
+    margin-top: 0px;
+}
+
+.datepadding {
+    margin-top: 10px;
+}
+
+.datepadding h5 {
+    margin-top: 0px;
+}
+
+.eventh3padding {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.eventh4padding {
+    margin-top: 5px;
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+
+.eventppadding {
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+}
+
+
+.eventbuttonpadding .buttonborder3 .btn-primary {
+    margin-top: 20px;
+}
+
+.threeeevents {
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.eventimagepadding {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.listingh4padding {
+    margin-top: 5px;
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+
+.listingh3padding {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.listingpadding {
+    border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 15px;
+}
+
+.listingpaddingnumber {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.region-featured-top-content {
+    min-height: 107px;
+}
+
+.partner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+}
+

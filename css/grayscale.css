@@ -1,0 +1,174 @@
+
+
+@media (max-width: 480px) {
+
+}
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+
+
+}
+
+
+
+
+
+@media (min-width: 1200px) {
+
+
+
+}
+
+
+
+.facebook {
+    max-width: 27px;
+    max-height: 28px;
+}
+
+.vr {
+    max-width: 28px;
+    max-height: 28px;
+}
+
+.insgram {
+    max-width: 27px;
+    max-height: 28px;
+}
+
+.twit {
+    max-width: 28px;
+    max-height: 28px;
+}
+
+.chat {
+    max-width: 29px;
+    max-height: 29px;
+}
+
+.facebook {
+    background-image: url("../image/facebook.png");
+    max-width: 27px;
+    height: 28px;
+    display: block;
+}
+
+.facebook:hover {
+    background-image: url("../image/facebook_hover.png");
+}
+
+.vr {
+    background-image: url("../image/vr.png");
+    max-width: 28px;
+    height: 28px;
+    display: block;
+}
+
+.vr:hover {
+    background-image: url("../image/vr_hover.png");
+}
+
+
+.insgram {
+    background-image: url("../image/insgram.png");
+    max-width: 27px;
+    height: 28px;
+    display: block;
+}
+
+.insgram:hover {
+    background-image: url("../image/insgram_hover.png");
+}
+
+.twit {
+    background-image: url("../image/twit.png");
+    max-width: 28px;
+    height: 28px;
+    display: block;
+}
+
+.twit:hover {
+    background-image: url("../image/twit_hover.png");
+}
+
+.chat {
+    background-image: url("../image/chat.png");
+    max-width: 29px;
+    height: 29px;
+    display: block;
+}
+
+.chat:hover {
+    background-image: url("../image/chat_hover.png");
+}
+
+
+.eventhover {
+    background-image: url("../image/icon_event.png");
+    max-width: 72px;
+    height: 81px;
+    display: block;
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.eventhover:hover {
+    background-image: url("../image/icon_event_hover.png");
+}
+
+.caeerhover {
+    background-image: url("../image/icon_caeer.png");
+    max-width: 59px;
+    height: 83px;
+    display: block;
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.caeerhover:hover {
+    background-image: url("../image/icon_caeer_hover.png");
+}
+
+.startuphover {
+    background-image: url("../image/icon_startup.png");
+    max-width: 81px;
+    height: 81px;;
+    display: block;
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.startuphover:hover {
+    background-image: url("../image/icon_startup_hover.png");
+}
+
+
+
+
